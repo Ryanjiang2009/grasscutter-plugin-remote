@@ -1,8 +1,8 @@
-This plugin is use with [a client](https://github.com/jianxingxuejian/grasscutter-tools)
+This plugin is designed to be used with [a client](https://github.com/jianxingxuejian/grasscutter-tools)
 
 please put in the plugins folder
 
-it’s base on 1.4.5-dev.jar，too early version may not work
+it’s based on 1.4.5-dev.jar，may not work in earlier versions
 
 本插件与[客户端](https://github.com/jianxingxuejian/grasscutter-tools)配套使用
 
